@@ -15,3 +15,6 @@ JavaScript, React,  and any general software development questions.
 
 ⚡ Fun fact:
 I love solving problems and developing beautiful software.
+
+
+[click me](https://www.instagram.com/_ksa_kshi?igsh=ZzlkcWg5Ym45NnJk)
