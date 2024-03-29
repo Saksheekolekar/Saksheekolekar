@@ -11,7 +11,7 @@
 
 - 👯 I’m looking to collaborate on: Front-end projects(React) **React projects**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Saksheekolekar/portfolio](https://github.com/Saksheekolekar)
+- 👨‍💻 All of my projects are available at [https://github.com/Saksheekolekar](https://github.com/Saksheekolekar)
 
 - 💬 Ask me about **JavaScript, React, and any general software development questions.**
 
