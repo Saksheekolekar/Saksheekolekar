@@ -1,19 +1,17 @@
 <h1 align="center">Hi 👋, I'm Sakshi kolekar (Sakshee)</h1>
-<h3 align="center">A Passionate Front-End Developer From India.(best than spider in web🕸 development)</h3>
+<h3 align="center">A Passionate FullStack Developer From India.(best than spider in web🕸 development)</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saksheekolekar&label=Profile%20views&color=0e75b6&style=flat" alt="saksheekolekar" /> </p>
 
 <p align="left"> <a href="https://twitter.com/sakshikole72466" target="blank"><img src="https://img.shields.io/twitter/follow/sakshikole72466?logo=twitter&style=for-the-badge" alt="sakshikole72466" /></a> </p>
 
-- 🔭 I’m currently working on: Improving logic and implementing javascript and react. [https://github.com/Saksheekolekar/Learn-React](https://github.com/Saksheekolekar/Learn-React)
+- 🔭 I’m currently working on: Improving logic and implementing the New Technologies.
 
-- 🌱 I’m currently learning **Advanced React and Nosql.**
-
-- 👯 I’m looking to collaborate on: Front-end projects(React) **React projects**
+- 👯 I’m looking to collaborate on: Back-end  projects **Java  projects**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Saksheekolekar](https://github.com/Saksheekolekar)
 
-- 💬 Ask me about **JavaScript, React, and any general software development questions.**
+- 💬 Ask me about **Java,JavaScript, React,Angular,MySQL and any general software development questions.**
 
 - 📫 How to reach me **sakshikolekar2003@gmail.com.**
 
