@@ -40,5 +40,5 @@
   <img align="center" src="https://o.charles-chrismann.fr/trigger" alt="work in progress" width="256" />
 </p>
 <p align="center">
-  <a href="https://github.com/Charles-Chrismann">See ya <3</a>
+  <a href="https://github.com/Saksheekolekar">See ya <3</a>
 </p>
