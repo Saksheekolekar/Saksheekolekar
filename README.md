@@ -33,3 +33,12 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=saksheekolekar&show_icons=true&locale=en" alt="saksheekolekar" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=saksheekolekar&" alt="saksheekolekar" /></p>
+<h1 align="center">Work in progress</h1>
+<p align="center">Other features are in progress, feel free to follow me to discover them.</p>
+<p align="center">To understand how it works, take a look <a href="https://github.com/Saksheekolekar/Saksheekolekar" target="_blank" rel="noreferrer" title="github dynalic readme">here</a></p>
+<p align="center">
+  <img align="center" src="https://o.charles-chrismann.fr/trigger" alt="work in progress" width="256" />
+</p>
+<p align="center">
+  <a href="https://github.com/Charles-Chrismann">See ya <3</a>
+</p>
