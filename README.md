@@ -1,4 +1,4 @@
-<div align="center"> <img src="./github-header-banner.png"> </div>
+
 <h1 align="center">Hi 👋, I'm Sakshi kolekar (Sakshee)</h1>
 <h3 align="center">A Passionate FullStack Developer From India.(best than spider in web🕸 development)</h3>
 
@@ -13,8 +13,6 @@
 - 👨‍💻 All of my projects are available at [https://github.com/Saksheekolekar](https://github.com/Saksheekolekar)
 
 - 💬 Ask me about **Java,JavaScript, React,Angular,MySQL and any general software development questions.**
-
-- 📫 How to reach me **sakshikolekar2003@gmail.com.**
 
 - ⚡ Fun fact **I love solving problems and developing beautiful software.**
 
